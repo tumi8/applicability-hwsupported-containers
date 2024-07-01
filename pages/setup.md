@@ -8,9 +8,9 @@ toc: Experiment Setup
 
 ## Hardware Setup
 
-<img src="../assets/images/setup.pdf.svg" >
+<img src="/applicability-hwsupported-containers/assets/images/setup.pdf.svg" >
 
-The setup consists of three nodes:ß
+The setup consists of three nodes:
 
 - Load generator (LoadGen): runs MoonGen as a traffic generator, creates traffic for the DuT, and receives the traffic from the DuT
 - Device under test (DuT): forwards the traffic received from the LoadGen between its interfaces through packet processing applications
