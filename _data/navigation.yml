@@ -3,7 +3,7 @@ toc:
     url: /
   - name: Setup
     url: /setup
-  - name: Line Topology
+  - name: Evaluation
     subfolderitems:
       - name: no pin | rate maximal
         url: /line/nopin-maxpps
@@ -15,9 +15,3 @@ toc:
         url: /line/nopin-17kpps
       - name: per node pin | 17k pps
         url: /line/pernodepin-17kpps
-  - name: Complex Topology
-    subfolderitems:
-      - name: 1 queue
-        url: /complex/1queue  
-      - name: 4 queues
-        url: /complex/4queues
